@@ -1,0 +1,11 @@
+#include "sql.h"
+
+int main(int argc, char *argv[])
+{
+  Database *database; // Create an instance of the Database class
+
+
+
+  delete d;           // Delete the instance of the Database
+  return 0;           // 0 = Success
+}
